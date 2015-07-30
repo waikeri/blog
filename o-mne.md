@@ -3,5 +3,11 @@ layout: page
 title: O mně
 permalink: /o-mne/
 ---
+# Viteje na mem prvnim blogu pres Github.
 
-Tady napiš něco o sobě nebo o svém blogu!
+**Tucne *pokus* jedenkrat**
+
+
+
+
+ 
